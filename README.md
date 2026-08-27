@@ -36,11 +36,11 @@ YOLOv5 모델을 사용한 아기, 키즈, 성인, 유아차 객체 인식 및 M
 
 | 분야 | 기술 |
 |---|---|
-| AI / Vision | YOLOv5-x, MediaPipe Pose |
+| AI / Vision | YOLOv5-x, MediaPipe Pose, PyTorch |
 | Computer Vision | OpenCV |
 | Edge Device | Raspberry Pi 4 |
 | Hardware | Arduino UNO, Step Motor, Webcam(Logitech C270) |
-| Model Optimization | ONNX |
+| Model Optimization | ONNX, Tensorflow |
 | Dataset | Roboflow |
 | Development | Python, Google Colab, VSCode |
 
